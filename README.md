@@ -1,0 +1,3 @@
+- 👋 Hi, I’m WjDong
+- 😄 Welcome to my little world ~
+- 📧 Contact me ➡️ explorer-dong@foxmail.com
