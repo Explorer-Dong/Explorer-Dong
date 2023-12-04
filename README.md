@@ -12,6 +12,4 @@
 ## About My Github
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong)](https://github.com/Christmas/github-readme-stats)
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=tokyonight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong)](https://github.com/Christmas/github-readme-stats) ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=tokyonight) 
