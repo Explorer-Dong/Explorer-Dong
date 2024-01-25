@@ -31,11 +31,10 @@
 <!------------ 所有仓库概览 ------------>
 <h2>About My Github</h2>
 
-<!-- 1. 总和统计 -->
-<img align="left" width=570 src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-
-<!-- 2. 最常使用的语言统计 -->
-<img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<div style="display: flex; justify-content: space-between; align-items: center; height: 100vh;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Left Image" style="max-height: 100%; width: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Right Image" style="max-height: 100%; width: auto;">
+</div>
 
 <!-- 3. 贡献折线图统计 -->
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Explorer-Dong&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
