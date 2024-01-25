@@ -32,7 +32,9 @@
 <h2>About My Github</h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center; height: 100vh;">
+    <!-- 1. 总数统计 -->
     <img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Left Image" style="max-height: 100%; width: auto;">
+    <!-- 2. 语言统计 -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Right Image" style="max-height: 100%; width: auto;">
 </div>
 
