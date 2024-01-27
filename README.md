@@ -1,5 +1,8 @@
 <!------------ 访问人数统计 ------------>
-<div align="right">
+
+<div align="center">
+    <div><b>From 2024.01.26 to Now</b></div>
+    <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Explorer-Dong.Explorer-Dong" />
 </div>
 
