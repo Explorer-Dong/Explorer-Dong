@@ -1,5 +1,4 @@
 <!------------ 访问人数统计 ------------>
-
 <div align="center">
     <div><b>From 2024.01.26 to Now</b></div>
     <br />
@@ -23,7 +22,8 @@
 
 
 <!------------ 个人介绍 ------------>
-<h2>I'm</h2>
+## I'm
+
 <ul>
     <li>👋 Hi, I’m Wenjie Dong.</li>
     <li>🔭 I’m currently studying in njnu.</li>
@@ -32,20 +32,34 @@
 
 
 <!------------ 所有仓库概览 ------------>
-<h2>About My Github</h2>
+## About My Github
 
-<div style="display: flex; justify-content: space-between; align-items: center; height: 100vh;">
-    <!-- 1. 总数统计 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Left Image" style="max-height: 100%; width: auto;">
-    <!-- 2. 语言统计 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Right Image" style="max-height: 100%; width: auto;">
-</div>
+<table>
+  <tr>
+    <td>
+      <center>
+        <!-- 贡献状态 -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&count_private=true&hide_border=true">
+      </center>
+    </td>
+    <td>
+      <center>
+        <!-- 语言占比 -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=css,html&hide_border=true">   
+      </center>
+    </td>
+  </tr>
+</table>
 
-<!-- 3. 贡献折线图统计 -->
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Explorer-Dong&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- 框架 -->
+## Framewok
+![skills](https://skillicons.dev/icons?i=vue,nodejs)
 
 
-<!------------ 结尾个人仓库主页跳转 ------------>
-<h4 align="center">
-  <a href="https://github.com/Explorer-Dong?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<!-- 语言 -->
+## Language
+![skills](https://skillicons.dev/icons?i=c,cpp,python,md,html,css,js)
+
+<!-- 技术栈 -->
+## Tech
+![skills](https://skillicons.dev/icons?i=git)
