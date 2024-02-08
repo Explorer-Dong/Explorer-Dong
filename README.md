@@ -58,8 +58,8 @@
 
 <!-- 语言 -->
 ## Language
-![skills](https://skillicons.dev/icons?i=c,cpp,python,md,html,css,js)
+![skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js)
 
-<!-- 技术栈 -->
-## Tech
-![skills](https://skillicons.dev/icons?i=git)
+<!-- 框架 -->
+## DevTool
+![skills](https://skillicons.dev/icons?i=md,git)
