@@ -52,7 +52,7 @@
 </table>
 
 <!-- 框架 -->
-## Framewok
+## Framework
 ![skills](https://skillicons.dev/icons?i=vue,nodejs)
 
 
