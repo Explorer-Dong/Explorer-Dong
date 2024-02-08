@@ -45,7 +45,7 @@
     <td>
       <center>
         <!-- 语言占比 -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=css,html&hide_border=true">   
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=css,html,cmake&hide_border=true">   
       </center>
     </td>
   </tr>
