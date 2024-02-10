@@ -58,7 +58,7 @@
 
 <!-- 语言 -->
 ## Language
-![skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js)
+![skills](https://skillicons.dev/icons?i=c,cpp,python,js)
 
 <!-- 框架 -->
 ## DevTool
