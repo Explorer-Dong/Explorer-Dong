@@ -53,7 +53,7 @@
 
 <!-- 框架 -->
 ## Framework
-![skills](https://skillicons.dev/icons?i=flask,vue)
+![skills](https://skillicons.dev/icons?i=flask)
 
 
 <!-- 语言 -->
