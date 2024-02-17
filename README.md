@@ -14,7 +14,7 @@
 </h2>
 
 
-<!------------ 个人网站推广地址 ------------>
+<!------------ 个人推广地址 ------------>
 <h5 align="center">
     <code><a href="https://blog.csdn.net/qq_73408594/" title="HomepageProfile">✨HOMEPAGE</a></code>
     <code><a href="mailto:19220448@njnu.edu.cn" title="Email">📧CONTACT</a></code>
@@ -23,7 +23,6 @@
 
 <!------------ 个人介绍 ------------>
 ## I'm
-
 <ul>
     <li>👋 Hi, I’m Wenjie Dong.</li>
     <li>🔭 I’m currently studying in njnu.</li>
@@ -33,23 +32,15 @@
 
 <!------------ 所有仓库概览 ------------>
 ## About My Github
-
 <table>
   <tr>
-    <td>
-      <center>
-        <!-- 贡献状态 -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&count_private=true&hide_border=true">
-      </center>
-    </td>
-    <td>
-      <center>
-        <!-- 语言占比 -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=css,html,cmake&hide_border=true">   
-      </center>
-    </td>
+    <!-- 贡献状态 -->
+    <td><center><img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&count_private=true&hide_border=true"></center></td>
+    <!-- 语言占比 -->
+    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=css,html,cmake&hide_border=true"></center></td>
   </tr>
 </table>
+
 
 <!-- 框架 -->
 ## Framework
@@ -59,6 +50,7 @@
 <!-- 语言 -->
 ## Language
 ![skills](https://skillicons.dev/icons?i=c,cpp,python,js)
+
 
 <!-- 框架 -->
 ## DevTool
