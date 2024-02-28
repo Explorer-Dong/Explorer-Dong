@@ -44,7 +44,7 @@
 
 <!-- 框架 -->
 ## Framework
-![skills](https://skillicons.dev/icons?i=flask)
+![skills](https://skillicons.dev/icons?i=flask,qt)
 
 
 <!-- 语言 -->
