@@ -49,7 +49,7 @@
 
 <!-- 语言 -->
 ## Language
-![skills](https://skillicons.dev/icons?i=c,cpp,python,js)
+![skills](https://skillicons.dev/icons?i=c,cpp,python,js,matlab)
 
 
 <!-- 框架 -->
