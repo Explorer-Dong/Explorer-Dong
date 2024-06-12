@@ -16,8 +16,12 @@
 
 <!------------ 个人推广地址 ------------>
 <h5 align="center">
-    <code><a href="https://blog.csdn.net/qq_73408594/" title="HomepageProfile">✨HOMEPAGE</a></code>
-    <code><a href="mailto:19220448@njnu.edu.cn" title="Email">📧CONTACT</a></code>
+    <code><a href="https://blog.dwj601.cn/">✨HOMEPAGE</a></code>
+    <code><a href="mailto:19220448@njnu.edu.cn">📧CONTACT</a></code>
+    <br><br>
+    <a href="https://codeforces.com/profile/dwj601">
+        <img src="https://img.shields.io/badge/dwj601-pupil_1363-008000?style=for-the-badge" alt="dwj601" />
+    </a>
 </h5>
 
 
