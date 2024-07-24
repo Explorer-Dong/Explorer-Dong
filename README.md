@@ -20,7 +20,7 @@
     <code><a href="mailto:19220448@njnu.edu.cn">📧CONTACT</a></code>
     <br><br>
     <a href="https://codeforces.com/profile/dwj601">
-        <img src="https://img.shields.io/badge/dwj601-pupil_1346-008000?style=for-the-badge" alt="dwj601" />
+        <img src="https://img.shields.io/badge/dwj601-pupil_1319-008000?style=for-the-badge" alt="dwj601" />
     </a>
 </h5>
 
