@@ -53,7 +53,7 @@
 
 <!-- 语言 -->
 ## Language
-![skills](https://skillicons.dev/icons?i=c,cpp,python,js,matlab)
+![skills](https://skillicons.dev/icons?i=c,cpp,python,js,matlab,v)
 
 
 <!-- 框架 -->
