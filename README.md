@@ -48,12 +48,12 @@
 
 <!-- 框架 -->
 ## Framework
-![skills](https://skillicons.dev/icons?i=flask,qt)
+![skills](https://skillicons.dev/icons?i=qt,tensorflow,pytorch,flask)
 
 
 <!-- 语言 -->
 ## Language
-![skills](https://skillicons.dev/icons?i=c,cpp,python,js,matlab,v)
+![skills](https://skillicons.dev/icons?i=c,cpp,python,js,matlab)
 
 
 <!-- 框架 -->
