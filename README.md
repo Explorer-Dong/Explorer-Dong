@@ -39,9 +39,9 @@
 <table>
   <tr>
     <!-- 贡献状态 -->
-    <td><center><img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&count_private=true&hide_border=true"></center></td>
+    <td><center><img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&count_private=false&hide_border=true"></center></td>
     <!-- 语言占比 -->
-    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=css,html,cmake,ejs,stylus&hide_border=true"></center></td>
+    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&hide=css,html,cmake,ejs,stylus,jupyter&hide_border=true"></center></td>
   </tr>
 </table>
 
@@ -56,6 +56,6 @@
 ![skills](https://skillicons.dev/icons?i=c,cpp,python,js,matlab)
 
 
-<!-- 框架 -->
+<!-- 工具 -->
 ## DevTool
-![skills](https://skillicons.dev/icons?i=md,git)
+![skills](https://skillicons.dev/icons?i=git,md,latex)
