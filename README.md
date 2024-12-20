@@ -1,17 +1,13 @@
-<!------------ 访问人数统计 ------------>
+<!------------ 前置信息展示 ------------>
 <div align="center">
-    <div><b>From 2024.01.26 to Now</b></div>
-    <br />
+    <!-- 访问人数统计 -->
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Explorer-Dong.Explorer-Dong" />
-</div>
-
-
-<!------------ 动态招呼语 ------------>
-<h2 align="center">
+    <br />
+    <!-- 动态招呼语 -->
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋+I+am+Wenjie+Dong;Nice+to+meet+you!&center=true&size=30">
     </a>
-</h2>
+</div>
 
 
 <!------------ 个人介绍 ------------>
