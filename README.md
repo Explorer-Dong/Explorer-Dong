@@ -14,24 +14,10 @@
 </h2>
 
 
-<!------------ 个人推广地址 ------------>
-<h5 align="center">
-    <code><a href="https://blog.dwj601.cn/">✨HOMEPAGE</a></code>
-    <code><a href="mailto:19220448@njnu.edu.cn">📧CONTACT</a></code>
-    <br><br>
-    <a href="https://codeforces.com/profile/dwj601">
-        <img src="https://img.shields.io/badge/dwj601-pupil_1378-008000?style=for-the-badge" alt="dwj601" />
-    </a>
-</h5>
-
-
 <!------------ 个人介绍 ------------>
 ## I'm
-<ul>
-    <li>👋 Hi, I’m Wenjie Dong.</li>
-    <li>🔭 I’m currently studying in Nan Jing Normal University.</li>
-    <li>😄 Welcome to my Github Home Page ~</li>
-</ul>
+
+👋 Hi, I’m Wenjie Dong. Welcome to my github profile page ~ I’m currently studying in Nanjing Normal University majoring in Artificial Intelligence, and I'm interested in <b>Computer Network</b>, Software Engineering and Deep Learning. I like writing so I'll be very happy if you can visit my stupid <code><a href="https://blog.dwj601.cn">🍀Blog Website</a></code>. Also, if you have some questions on me, don't forget my <code><a href="mailto:19220448@njnu.edu.cn">📧email</a></code>. Have a nice day!
 
 
 <!------------ 所有仓库概览 ------------>
@@ -41,7 +27,7 @@
     <!-- 贡献状态 -->
     <td><center><img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true"></center></td>
     <!-- 语言占比 -->
-    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true&hide=css,html,cmake,ejs,stylus,jupyter&exclude_repo=explorer-dong.github.io"></center></td>
+    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true&hide=css,html,cmake,ejs,stylus,jupyter,batchfile&exclude_repo=explorer-dong.github.io"></center></td>
   </tr>
 </table>
 
