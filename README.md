@@ -1,19 +1,6 @@
-<!------------ 前置信息展示 ------------>
-<div align="center">
-    <!-- 访问人数统计 -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Explorer-Dong.Explorer-Dong" />
-    <br />
-    <!-- 动态招呼语 -->
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋+I+am+Wenjie+Dong;Nice+to+meet+you!&center=true&size=30">
-    </a>
-</div>
-
-
 <!------------ 个人介绍 ------------>
 ## I'm
-
-👋 Hi, I’m Wenjie Dong. Welcome to my github profile page ~ I’m currently studying in Nanjing Normal University majoring in Artificial Intelligence, and I'm interested in <b>Computer Network</b>, Software Engineering and Deep Learning. I like writing so I'll be very happy if you can visit my stupid <code><a href="https://blog.dwj601.cn">🍀Blog Website</a></code>. Also, if you have some questions on me, don't forget my <code><a href="mailto:19220448@njnu.edu.cn">📧email</a></code>. Have a nice day!
+Hi 👋, I’m Wenjie Dong. Welcome to my GitHub profile! I am currently pursuing a Bachelor's degree in Artificial Intelligence at [`🏫 Nanjing Normal University`](https://www.njnu.edu.cn). My areas of interest include <b>Computer Networks</b>, Software Engineering, and Deep Learning. I enjoy writing, so feel free to visit my [`🍀 Blog`](https://blog.dwj601.cn) – I’d be happy to have you! If you have any questions, don’t hesitate to reach out via my [`📧 Email`](mailto:wj-Dong@outlook.com). Have a great day!
 
 
 <!------------ 所有仓库概览 ------------>
@@ -29,15 +16,15 @@
 
 
 <!-- 框架 -->
-## Framework
+## Frameworks
 ![skills](https://skillicons.dev/icons?i=qt,tensorflow,pytorch,flask)
 
 
 <!-- 语言 -->
-## Language
+## Languages
 ![skills](https://skillicons.dev/icons?i=c,cpp,python,js,matlab)
 
 
 <!-- 工具 -->
-## DevTool
+## DevTools
 ![skills](https://skillicons.dev/icons?i=git,md,latex)
