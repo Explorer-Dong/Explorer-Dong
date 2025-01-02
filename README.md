@@ -22,7 +22,7 @@ Hi 👋, I’m Wenjie Dong. Welcome to my GitHub profile! I am currently pursuin
 
 <!-- 语言 -->
 ## Languages
-![skills](https://skillicons.dev/icons?i=c,cpp,python,js,matlab)
+![skills](https://skillicons.dev/icons?i=c,cpp,python,matlab)
 
 
 <!-- 工具 -->
