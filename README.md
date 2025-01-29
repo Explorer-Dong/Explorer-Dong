@@ -10,7 +10,7 @@ Hi 👋, I’m Wenjie Dong. Welcome to my GitHub profile! I am currently pursuin
     <!-- 贡献状态 -->
     <td><center><img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true"></center></td>
     <!-- 语言占比 -->
-    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true&hide=css,html,cmake,ejs,stylus,jupyter,batchfile&exclude_repo=explorer-dong.github.io"></center></td>
+    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true&hide=css,html,cmake,ejs,stylus,jupyter,batchfile&exclude_repo=explorer-dong.github.io,blog"></center></td>
   </tr>
 </table>
 
