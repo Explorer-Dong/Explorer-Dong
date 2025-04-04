@@ -8,7 +8,7 @@ I enjoy writing, so feel free to visit my [`📄 Wiki`](https://wiki.dwj601.cn/ 
 
 
 <!------------ 所有仓库概览 ------------>
-## About My Github
+## About My GitHub
 <table>
   <tr>
     <!-- 贡献状态 -->
@@ -21,7 +21,7 @@ I enjoy writing, so feel free to visit my [`📄 Wiki`](https://wiki.dwj601.cn/ 
 
 <!-- 框架 -->
 ## Frameworks
-![skills](https://skillicons.dev/icons?i=qt,tensorflow,pytorch,flask)
+![skills](https://skillicons.dev/icons?i=qt,flask,pytorch)
 
 
 <!-- 语言 -->
