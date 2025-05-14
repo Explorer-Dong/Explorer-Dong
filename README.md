@@ -1,10 +1,12 @@
 <!------------ 个人介绍 ------------>
 ## I'm
-Hi 👋, I’m Wenjie Dong. Welcome to my GitHub profile! I am currently pursuing a Bachelor's degree in Artificial Intelligence at Nanjing Normal University.
+Hi 👋, I’m Wenjie Dong. I am currently pursuing a Bachelor's degree in Artificial Intelligence at Nanjing Normal University.
 
-My areas of interest include <b>Cloud Computing</b>, Machine Learning, and Software Engineering. 
+My areas of interest include <b>Machine Learning</b>, Deep Learning, and Software Engineering. 
 
-I enjoy writing, so feel free to visit my [`📄 Wiki`](https://wiki.dwj601.cn/ "wiki") and [`🍀 Blog`](https://blog.dwj601.cn/ "blog") – I’d be happy to have you! If you have any questions, don’t hesitate to reach out via my [`📧 Email`](mailto:explorer-dong@foxmail.com). Have a great day!
+I enjoy writing, so feel free to visit my [`📄 Wiki`](https://wiki.dwj601.cn/ "wiki") and [`🍀 Blog`](https://blog.dwj601.cn/ "blog").
+
+If you have any questions, don’t hesitate to reach out via my [`📧 Email`](mailto:explorer-dong@foxmail.com). Have a great day 🤗 !
 
 
 <!------------ 所有仓库概览 ------------>
