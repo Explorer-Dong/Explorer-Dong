@@ -2,7 +2,7 @@
 ## I'm
 Hi 👋, I’m Wenjie Dong. I am currently pursuing a Bachelor's degree in Artificial Intelligence at Nanjing Normal University.
 
-My areas of interest include <b>Machine Learning</b>, Deep Learning, and Software Engineering. 
+My areas of interest include <b>Machine Learning</b> and <b>Software Engineering</b>. 
 
 I enjoy writing, so feel free to visit my [`📄 Wiki`](https://wiki.dwj601.cn/ "wiki") and [`🍀 Blog`](https://blog.dwj601.cn/ "blog").
 
@@ -16,7 +16,7 @@ If you have any questions, don’t hesitate to reach out via my [`📧 Email`](m
     <!-- 贡献状态 -->
     <td><center><img src="https://github-readme-stats.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true"></center></td>
     <!-- 语言占比 -->
-    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true&hide=css,html,cmake,ejs,stylus,jupyter,batchfile&exclude_repo=explorer-dong.github.io,blog"></center></td>
+    <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true&hide=css,html,cmake,ejs,stylus,jupyter,batchfile,roff&exclude_repo=wiki,blog"></center></td>
   </tr>
 </table>
 
