@@ -29,14 +29,8 @@ If you have any questions, don’t hesitate to reach out via my [`📧 Email`](m
 
 ## 关于我的技术栈 / About My Technology Stack
 
-- 框架 / Framework
-
-  ![skills](https://skillicons.dev/icons?i=qt,flask,pytorch)
-
-- 语言 / Languages
-
-  ![skills](https://skillicons.dev/icons?i=c,cpp,python)
-
-- 工具 / Tools
-
-  ![skills](https://skillicons.dev/icons?i=git,md,latex,matlab)
+|   领域 / Field   |                         列表 / List                          |
+| :-------------- | :---------------------------------------------------------- |
+| 框架 / Framework |  ![skills](https://skillicons.dev/icons?i=qt,flask,pytorch)  |
+| 语言 / Languages |    ![skills](https://skillicons.dev/icons?i=c,cpp,python)    |
+|   工具 / Tools   | ![skills](https://skillicons.dev/icons?i=git,md,latex,matlab) |
