@@ -23,7 +23,7 @@ If you have any questions, don’t hesitate to reach out via my [`📧 Email`](m
     <!-- 贡献状态 -->
     <td><center><img src="https://github-readme-stats-nine-orcin.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true"></center></td>
     <!-- 语言占比 -->
-    <td><center><img src="https://github-readme-stats-nine-orcin.vercel.app/api/top-langs/?username=Explorer-Dong&exclude_repo=wiki,blog&theme=solarized-light&hide_border=true"></center></td>
+    <td><center><img src="https://github-readme-stats-nine-orcin.vercel.app/api/top-langs/?username=Explorer-Dong&exclude_repo=wiki,blog&theme=solarized-light&hide_border=true&hide=cmake"></center></td>
   </tr>
 </table>
 
@@ -33,4 +33,4 @@ If you have any questions, don’t hesitate to reach out via my [`📧 Email`](m
 | :-------------- | :---------------------------------------------------------- |
 | 语言 / Languages |    ![skills](https://skillicons.dev/icons?i=c,cpp,python)    |
 | 框架 / Framework |  ![skills](https://skillicons.dev/icons?i=qt,flask,pytorch,fastapi)  |
-|   工具 / Tools   | ![skills](https://skillicons.dev/icons?i=git,md,latex,matlab,linux) |
+|   工具 / Tools   | ![skills](https://skillicons.dev/icons?i=git,md,latex,matlab,linux,docker,vim) |
