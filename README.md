@@ -21,9 +21,9 @@ If you have any questions, don’t hesitate to reach out via my [`📧 Email`](m
 <table>
   <tr>
     <!-- 贡献状态 -->
-    <td><center><img src="https://github-readme-stats-seven-chi-38.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light&hide_border=true"></center></td>
+    <td><center><img src="https://github-readme-stats-seven-chi-38.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light"></center></td>
     <!-- 语言占比 -->
-    <td><center><img src="https://github-readme-stats-seven-chi-38.vercel.app/api/top-langs/?username=Explorer-Dong&exclude_repo=wiki,blog&theme=solarized-light&hide_border=true&hide=cmake"></center></td>
+    <td><center><img src="https://github-readme-stats-seven-chi-38.vercel.app/api/top-langs/?username=Explorer-Dong&exclude_repo=wiki,blog&theme=solarized-light&hide=cmake"></center></td>
   </tr>
 </table>
 
